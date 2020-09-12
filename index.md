@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/antonnikitin97/antonnikitin97.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Anton, I am a recent graduate in Electronic Engineering and I currently work full time as a hardware engineer at a company that develops RF Spectrum monitoring equipment!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have an interest mainly in digital and embedded systems.
+
+On this website I'll write about different aspects of my life, as well as any personal projects that I'm currently working on!
 
 ### Markdown
 
