@@ -9,5 +9,7 @@ On this website I'll write about different aspects of my life, as well as any pe
 ### Projects
 
 Here are some projects that I've been working on: 
-- [Project Vostok - An Extensino to the TV-B-Gone](https://github.com/antonnikitin97/ProjectVostok)
+* [Project Vostok - An Extension to the TV-B-Gone](https://github.com/antonnikitin97/ProjectVostok)
+  * The aim of this project is to take the popular TV-B-Gone device and modify it to include an LCD screen, firmware will be written to allow the user to select from the various
+  TV options.
 
