@@ -9,5 +9,5 @@ On this website I'll write about different aspects of my life, as well as any pe
 ### Projects
 
 Here are some projects that I've been working on: 
-- (Project Vostok - An extension to the TV-B-Gone)[https://github.com/antonnikitin97/ProjectVostok]
+- (https://github.com/antonnikitin97/ProjectVostok)[Project Vostok - An extension to the TV-B-Gone]
 
