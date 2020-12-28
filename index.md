@@ -12,4 +12,9 @@ Here are some projects that I've been working on:
 * [Project Vostok - An Extension to the TV-B-Gone](https://github.com/antonnikitin97/ProjectVostok)
   * The aim of this project is to take the popular TV-B-Gone device and modify it to include an LCD screen, firmware will be written to allow the user to select from the various
   TV options.
+* [Project Buran - A home-made StreamDeck](https://github.com/antonnikitin97/project_buran)
+  * The aim of this project is to make my own version of the StreamDeck for my [Twitch Stream](https://www.twitch.tv/tohaaaa97). Hardware, Firmware and a GUI will be developed to allow control of StreamLabs OBS.
+
+
+### Blog
 
